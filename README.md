@@ -1,15 +1,29 @@
-# What is this?
+# 📚 Book Finder App
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+A beautiful and bright **React-based Book Finder** built using the **Google Books API**.  
+Search your favorite books and discover new reads — all in a soft **baby pink theme** 🎀✨
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+---
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+## 🌟 Features
 
-Preview the gif below to get a quick demo of github.dev in action.
+- 🔍 Real-time book search via **Google Books API**
+- 📖 Displays title, author(s), description & thumbnail
+- 🎨 Bright and soft **baby pink UI**
+- 📱 Fully responsive on all screens
+- ⚛️ Built with modern **React.js**
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+---
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+## 📸 Preview
+
+> _"Search bar at top, grid of book cards below, all pretty in pink!"_  
+
+---
+
+## 📦 Tech Stack
+
+- **React** (Functional components)
+- **HTML5 / CSS3**
+- **Google Books API**
+- **JavaScript (ES6)**
